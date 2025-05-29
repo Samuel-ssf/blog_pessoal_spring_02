@@ -32,7 +32,7 @@ public class UsuarioService {
 
 		if (usuarioRepository.findByUsuario(usuario.getUsuario()).isPresent()) {
 			return Optional.empty();
-
+ 
 		}
 
 		usuario.setSenha(criptografarSenha(usuario.getSenha()));

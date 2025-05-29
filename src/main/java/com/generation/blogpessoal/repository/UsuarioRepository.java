@@ -12,3 +12,4 @@ public interface UsuarioRepository extends JpaRepository<Usuario, Long>{
 	
 	/* SELECT * FROM tb_usuarios WHERE usuario = ? */
 }
+ 

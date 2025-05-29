@@ -12,4 +12,4 @@ public interface PostagemRepository extends JpaRepository<Postagem, Long>{
 	
 	//* SELECT * FROM tb_postagens WHERE LIKE titulo "%?%"; +/
 }
- 
+  

@@ -31,7 +31,7 @@ public class BasicSecurityConfig {
  
 		return new UserDetailsServiceImpl();
 	}
-
+ 
 	@Bean
 	PasswordEncoder passwordEncoder() {
 		return new BCryptPasswordEncoder();

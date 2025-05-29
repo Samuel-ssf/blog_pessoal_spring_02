@@ -25,7 +25,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 		Optional<Usuario> usuario = usuarioRepository.findByUsuario(username);
 
 		if (usuario.isPresent())
-			return new UserDetailsImpl(usuario.get());
+			return new UserDetailsImpl(usuario.get()); 
 		else
 			throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, "Erro ao Autenticar o Usuário");
 			

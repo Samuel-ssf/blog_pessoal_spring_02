@@ -20,7 +20,7 @@ import jakarta.validation.constraints.Pattern;
 @Table(name = "tb_tema") //CREATE TABLE tb_postagens();
 
 public class Tema {
-
+ 
 	@Id // Primary key 
 	@GeneratedValue(strategy = GenerationType.IDENTITY) // UTO_INCREMENT
 	private Long id;
