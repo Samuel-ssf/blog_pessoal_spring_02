@@ -1,0 +1,12 @@
+2025-05-29 21:16:04,300 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-29 21:20:01,044 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-29 21:21:20,012 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.generation:blogpessoal:0.0.1-SNAPSHOT @ C:\Users\COMPUTADOR\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\blogpessoal\blog_pessoal_spring\pom.xml.
+2025-05-29 21:21:46,300 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blogpessoal/src/main/java
+2025-05-29 21:21:46,302 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal/src/main/resources
+2025-05-29 21:21:46,306 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal/src/main/resources
+2025-05-29 21:21:46,309 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blogpessoal/src/test/java
+2025-05-29 21:21:46,310 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blogpessoal/src/test/resources
+2025-05-29 21:21:48,363 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 44 sec
+2025-05-29 21:21:56,008 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-05-29 21:21:56,100 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-29 21:21:56,198 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\test\resources to target\test-classes

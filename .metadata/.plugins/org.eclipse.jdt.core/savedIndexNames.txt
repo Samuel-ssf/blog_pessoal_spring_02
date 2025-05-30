@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\COMPUTADOR\OneDrive\Desktop\spring\blogpessoal\blog_pessoal_spring\.metadata\.plugins\org.eclipse.jdt.core
+3505642773.index
+1865797976.index
+2366307202.index
